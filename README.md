@@ -1,7 +1,7 @@
 # How to clear cache?
 
 
-[![how to clear cache](red2.png)](https://github.com/howsworks/how.to.clear.cache)
+[![how to clear cache](red2.png)](https://computersolve.com/how-to-clear-cache/)
 
 
 * To clear the cache and cookies in Chrome, you’ll need to access the browser’s Settings menu. There are three different ways you can get here.
